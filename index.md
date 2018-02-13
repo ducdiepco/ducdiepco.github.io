@@ -92,8 +92,8 @@ Denver, CO<br>
   <thead>
     <tr>
       <th>&nbsp;</th>
-      <th>Project</th>
-      <th>Timelines</th>
+      <th>Project Source</th>
+      <th>Status</th>
       <th>Technologies</th>
       <th>Description</th>
     </tr>
@@ -101,75 +101,33 @@ Denver, CO<br>
   <tbody>
     <tr>
       <td>1</td>
-      <td><a href="http://bats.herokuapp.com/">Bless Africa Tours</a></td>
-      <td>2011-2014</td>
-      <td>Rails 4.2, Postgres, Bootstrap, Javascript, Devise, Google Calendar</td>
-      <td>African Safaris and Mt. Kilimanjaro trekking tours company</td>
+      <td><a href="https://github.com/ducdiepco/erp-system">ERP System</a></td>
+      <td>WIP</td>
+      <td>Hanami, Dry-rb gems, monads, container architecture </td>
+      <td>ERB System</td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="http://esthelena.herokuapp.com/">Enterprise St Helena</a></td>
-      <td>2012-2015</td>
-      <td>Rails 4.2, Elastic Search, Postgres, Bootstrap, Javascript, Forem, Devise</td>
-      <td>commissioned by Government of Saint Helena</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td><a href="http://fatpheasant.herokuapp.com/">Fat Pheasant</a></td>
-      <td>2010-present</td>
-      <td>Rails 3, Postgres, Javascript, Bootstrap</td>
-      <td>Personal Contacts unified Hotmail, Google, Yahoo and Facebook for when you loose your phone. WIP</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td><a href="http://lincspiper.co.uk/">Lincs Piper</a></td>
-      <td>2009-present</td>
-      <td>Rails 4, JQuery + Vanilla Javascript, Vanilla CSS</td>
-      <td>directory like Gumtree. Unfinished personal quest.</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td><a href="http://propertypiper.com">Property Piper</a></td>
-      <td>2011</td>
-      <td>Sinatra, SQLite, Google maps, Elastic Search</td>
-      <td>Property search engine WIP</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td><a href="http://railspiper.com">Rails Piper</a></td>
-      <td>2013-present</td>
-      <td>Sinatra, Postgres, Sorcery, Heroku</td>
-      <td>Ruby developers cv posting/search.</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td><a href="http://WaddingtonTaxis.co.uk">Waddington Taxis</a></td>
-      <td>2013-present</td>
-      <td>Rails 4.2 API, Devise, Backbone JS, PureCSS framework</td>
-      <td>Taxi booking app, dispatch app and driver app thats mobile friendly</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td><a href="http://paxiapp.com">Paxi Labs</a></td>
-      <td>2015-2016</td>
-      <td>Hanami, Hanami-Fumikiri, Postgres, MongoDB, Google Firebase, Redis, OpenShift hosting, Apple/Google/MapBox Maps</td>
-      <td>Developed a number of API’s plus iOS apps used privately and some awaiting launch in 2016</td>
+      <td><a href="https://github.com/ducdiepco/mixed-cms">Enterprise St Helena</a></td>
+      <td>WIP</td>
+      <td>Rails 5.1, pushtype cms, administrate, dry-transaction, dry-validate </td>
+      <td>Website with pushtype cms and administrate to manage Leads</td>
     </tr>
   </tbody>
 </table>
-I am in the process of writing the Android equivalent of some of the above apps.
+I am in the process of writing the above apps.
 <h4>
   Education
 </h4>
 <p>
-  Lincoln University — BA Architecture, 2007-2009
+  Saigon Institute Of Technology — Computer Science , 2008-2012
 </p>
 
 <h4>
   Strengths and goals
 </h4>
 <p>
-  I can work as software architect or developer. I can also do on-site Ruby on Rails, Hanami web frameworks and frontend web development.
+  I can work as full stack developer. I can also do Ruby on Rails, Hanami web frameworks and frontend web development.
 </p>
 
 <p>
