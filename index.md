@@ -9,6 +9,7 @@ title: Resume
 Duc Diep<br>
 Ruby Developer<br>
 Denver, CO<br>
+My Phone: 720-217-8530<br>
 <p>I'm currently working at Marca Global LLC. </p>
 <h4>Skills:</h4>
 <p>I’m a full stack web developer, with a focus on backend systems also addicted in clean code and design patterns . My key skills include among others:</p>
