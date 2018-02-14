@@ -9,41 +9,19 @@ title: Resume
 Duc Diep<br>
 Ruby Developer<br>
 Denver, CO<br>
-<p>I am based in Purley, South East London. I mostly work online so I can live where I love.</p>
-
-<h4>Profile</h4>
-<p>Nelson Kelem is a:</p>
-<ul>
-  <li>code optimiser and problem solver or critical thinker</li>
-  <li>software developer and code experimenter (ruby, javascript and erlang primarily)</li>
-  <li>avid reader of many programming and cs books</li>
-  <li>open source software spirit sharer hoping to make sharing popular</li>
-  <li>an experienced web and ios app developer and software enthusiast</li>
-  <li>tech-based community organiser (ilinkoln)</li>
-  <li>a dreamer and tinkerer with enterprising leanings</li>
-</ul>
+<p>I'm currently working at Marca Global LLC. </p>
 <h4>Skills:</h4>
-<p>I’m a full stack web developer, with a focus on backend systems. My key skills include among others:</p>
+<p>I’m a full stack web developer, with a focus on backend systems also addicted in clean code and design patterns . My key skills include among others:</p>
 <ul>
-  <li>HTML, CSS, Adobe Illustrator/Photoshop (2007-present)</li>
-  <li>Ruby and Ruby-on-Rails/Datamapper (2009-present)</li>
-  <li>Vanilla Javascript, JQuery (2009-present) and AngularJS (2013-present)</li>
-  <li>Nodejs and Express framework (2013-present)</li>
-  <li>Objective-C, RubyMotion (2014-present)</li>
-  <li>TDD/BDD I honestly can not remember when I started testing, its one of those things.</li>
+  <li>HTML, CSS, Javascript, PHP  (2011-present)</li>
+  <li>Ruby and Ruby-on-Rails (2016-present)</li>
+  <li>Elixir, Docker (2017-present)</li>
+  <li>AWS, Google Cloud (2017-present)</li>
+  <li>TDD/BDD (2016) </li>
+  <li>Currently I'm learning and practicing Domain Driven Design</li>
 </ul>
 <p>
-  Languages:- Ruby is my main go to (OO) language, Nodejs for real-time API’s, Elixir is my current interest for functional language.
-</p>
-<p>I’m an ardent advocate for Open Source dev and a contributor, author of among others:</p>
-
-<ul>
-  <li>Hanami-Fumikiri ‐ WIP a JSON Web Token authentication gem for Hanami Web framework</li>
-  <li>Spree-gocardless ‐ a GoCardless extension for Spree Commerce, GC is a UK Direct Debit payment processor making life easy for SME and Sole Traders.</li>
-</ul>
-
-<p>
-  I’ve also contributed to: Spree Commerce and DataMapper 2 among others and currently Hanami Web Framework.
+  Languages:- Ruby is my main go to (OO) language, Elixir is my current interest for functional language.
 </p>
 <h4>
   Tools
@@ -51,40 +29,44 @@ Denver, CO<br>
 <ul>
 <li>Backend development
 <ul>
-  <li>Languages: Ruby, MacRuby, Nodejs</li>
-  <li>Languages with intermediate proficiency: Elixir, Go</li>
-  <li>Frameworks: Rails, Hanami, Roda, Sinatra, Sails, Express</li>
-  <li>Frameworks with intermediate proficiency: Phoenix</li>
+  <li>Languages: Ruby, PHP, Elixir</li>
+  <li>Languages with intermediate proficiency: Ruby, PHP</li>
+  <li>Frameworks: Rails, Hanami, Yi (PHP), Zend</li>
+  <li>Frameworks with intermediate proficiency: Rails, Hanami, Yi</li>
 </ul>
 </li>
 <li>Frontend development
 <ul>
-  <li>Web HTML5, CSS3, Javascript, Dart, Objective-C</li>
-  <li>Web frameworks BackboneJS, AngularJS, UIKIT CSS, Bootstrap CSS,</li>
-  <li>Mobile frameworks: RubyMotion, Xcode, Ionic</li>
+  <li>Web HTML5, CSS3, Javascript </li>
+  <li>Web frameworks Vue, Angular, React, Bootstrap CSS,</li>
 </ul>
 </li>
 <li>
-  Testing suits: TestUnit, RSpec + Capybara
+  Testing suits: RSpec
 </li>
 </ul>
-<p>
-  I prefer using RSpec with Capybara for frontend integration testing in place of Cucumber.
-</p>
 <ul>
-  <li>Prototyping: Photoshop, Illustrator, Bootstrap and UIKIT CSS</li>
-  <li>Preprocessors Javascript (CoffeeScript and TypeScript), CSS (Sass, Grunt, Gulp)</li>
-  <li>Databases: Postgres, SQLite, MongoDB, RethinkDB</li>
+  <li>Preprocessors Javascript ES6 (Babel), CSS (Sass)</li>
+  <li>Databases: Postgres, MySQL, MongoDB, </li>
   <li>Architecture and UML: OS X (macOS), Linux (Ubuntu) and Git</li>
 </ul>
 <h4>
   Work experience
 </h4>
-<blockquote>
-<p>
-  My experience is mainly drawn from freelancing work and collaborations on Open Source Software projects. Largely they are backend systems. For the past 5 years I have worked at a digital agency (Safarista Design), where as a senior developer I focused on Ruby and Rails development. Below are some apps I have worked on.
-</p>
-</blockquote>
+<table>
+  <tbody>
+<tr>
+  <td>Marca Global LLC</td>
+  <td>FullStack Developer</td>
+  <td>October 2014 - present</td>
+</tr>
+<tr>
+  <td>CommonTiger</td>
+  <td>Web Developer</td>
+  <td>December 2012 - November 2013</td>
+</tr>
+  </tbody>
+</table>
 <h4>
   Fullstack Web and API apps
 </h4>
@@ -103,8 +85,9 @@ Denver, CO<br>
       <td>1</td>
       <td><a href="https://github.com/ducdiepco/erp-system">ERP System</a></td>
       <td>WIP</td>
-      <td>Hanami, Dry-rb gems, monads, container architecture </td>
-      <td>ERB System</td>
+      <td>Hanami, Dry-rb gems, monads, container architecture, Postgres, Event
+Driven Architecture </td>
+      <td>ERB System, Payment Processer API (Authorize.net, Payline)</td>
     </tr>
     <tr>
       <td>2</td>
