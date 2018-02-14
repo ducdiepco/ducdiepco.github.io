@@ -92,7 +92,7 @@ Driven Architecture </td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href="https://github.com/ducdiepco/mixed-cms">Enterprise St Helena</a></td>
+      <td><a href="https://github.com/ducdiepco/mixed-cms">Mixed Cms</a></td>
       <td>WIP</td>
       <td>Rails 5.1, pushtype cms, administrate, dry-transaction, dry-validate </td>
       <td>Website with pushtype cms and administrate to manage Leads</td>
