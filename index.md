@@ -15,10 +15,10 @@ My Phone: 720-217-8530<br>
 <p>I’m a full stack web developer, with a focus on backend systems also addicted in clean code and design patterns . My key skills include among others:</p>
 <ul>
   <li>HTML, CSS, Javascript, PHP  (2011-present)</li>
-  <li>Ruby and Ruby-on-Rails (2016-present)</li>
+  <li>Ruby and Ruby-on-Rails (2015-present)</li>
   <li>Elixir, Docker (2017-present)</li>
   <li>AWS, Google Cloud (2017-present)</li>
-  <li>TDD/BDD (2016) </li>
+  <li>TDD/BDD (2015) </li>
   <li>Currently I'm learning and practicing Domain Driven Design</li>
 </ul>
 <p>
