@@ -16,7 +16,7 @@ My Phone: 720-217-8530<br>
 <ul>
   <li>HTML, CSS, Javascript, PHP  (2011-present)</li>
   <li>Ruby and Ruby-on-Rails (2015-present)</li>
-  <li>TDD/BDD (2015) </li>
+  <li>TDD (2015) </li>
   <li>Elixir, Docker </li>
   <li>AWS, Google Cloud</li>
 </ul>
