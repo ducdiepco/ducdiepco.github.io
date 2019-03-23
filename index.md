@@ -42,7 +42,10 @@ My Phone: 720-217-8530<br>
 </ul>
 </li>
 <li>
-  Testing suits: RSpec
+  Testing suits: RSpec, Cucumber, Capybara
+</li>
+<li>
+  Management tools: Jira and confluence pages
 </li>
 </ul>
 <ul>
