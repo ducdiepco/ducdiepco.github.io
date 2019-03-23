@@ -10,16 +10,15 @@ Duc Diep<br>
 Ruby Developer<br>
 Denver, CO<br>
 My Phone: 720-217-8530<br>
-<p>I'm currently working at Marca Global LLC. </p>
+<p>I'm currently working at Agworld. </p>
 <h4>Skills:</h4>
 <p>I’m a full stack web developer, with a focus on backend systems also addicted in clean code and design patterns . My key skills include among others:</p>
 <ul>
   <li>HTML, CSS, Javascript, PHP  (2011-present)</li>
   <li>Ruby and Ruby-on-Rails (2015-present)</li>
-  <li>Elixir, Docker (2017-present)</li>
-  <li>AWS, Google Cloud (2017-present)</li>
   <li>TDD/BDD (2015) </li>
-  <li>Currently I'm learning and practicing Domain Driven Design</li>
+  <li>Elixir, Docker </li>
+  <li>AWS, Google Cloud</li>
 </ul>
 <p>
   Languages:- Ruby is my main go to (OO) language, Elixir is my current interest for functional language.
@@ -39,7 +38,7 @@ My Phone: 720-217-8530<br>
 <li>Frontend development
 <ul>
   <li>Web HTML5, CSS3, Javascript </li>
-  <li>Web frameworks Vue, Angular, React, Bootstrap CSS,</li>
+  <li>Web frameworks React, Angular, Bootstrap CSS,</li>
 </ul>
 </li>
 <li>
@@ -57,9 +56,14 @@ My Phone: 720-217-8530<br>
 <table>
   <tbody>
 <tr>
+  <td>Agworld Inc</td>
+  <td>Software Developer</td>
+  <td>May 2018 - Present</td>
+</tr>
+<tr>
   <td>Marca Global LLC</td>
   <td>FullStack Developer</td>
-  <td>October 2014 - present</td>
+  <td>October 2014 - April 2018</td>
 </tr>
 <tr>
   <td>CommonTiger</td>
