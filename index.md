@@ -72,7 +72,7 @@ designers, and other developers) </li>
       <li>Perform code reviews</li>
       <li>Familiarity with Agile processes and project management tools</li>
       <li>Front-end technologies (React, Coffeescript, Vanilla JS, JQuery)</li>
-      <li>Back-end technologies (Ruby on Rails, Rspec, Github, Postgre SQL, AWS ... )</li>
+      <li>Back-end technologies (Ruby on Rails, Rspec, Github, Postgre SQL, AWS, Jenkins, Semaphore CI ... )</li>
     </ul>
   </td>
 </tr>
