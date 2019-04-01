@@ -64,9 +64,34 @@ My Phone: 720-217-8530<br>
   <td>May 2018 - Present</td>
 </tr>
 <tr>
+  <td colspan="3">
+    <ul>
+      <li> Collaborating closely with international team (project managers,
+designers, and other developers) </li>
+      <li> Follow best practices in software development (such as test driven developmennt, refactoring, continuous interration and coding standard)</li>
+      <li>Perform code reviews</li>
+      <li>Familiarity with Agile processes and project management tools</li>
+      <li>Front-end technologies (React, Coffeescript, Vanilla JS, JQuery)</li>
+      <li>Back-end technologies (Ruby on Rails, Rspec, Github, Postgre SQL, AWS ... )</li>
+    </ul>
+  </td>
+</tr>
+<tr>
   <td>Marca Global LLC</td>
   <td>FullStack Developer</td>
   <td>October 2014 - April 2018</td>
+</tr>
+<tr>
+  <td colspan="3">
+    <ul>
+      <li>Trying new technology and be encouraged to experiment and innovate</li>
+      <li>Continuously improve existing applications</li>
+      <li>Tackle interesting problems, with the time to solve them correctly</li>
+      <li>Researching and sharing knowledge within your team</li>
+      <li>Front-end technologies (React, AngularJs, Vanilla JS, JQuery)</li>
+      <li>Back-end technologies (Ruby on Rails, PHP, Rspec, Github, Postgre SQL, AWS ... )</li>
+    </ul>
+  </td>
 </tr>
 <tr>
   <td>CommonTiger</td>
