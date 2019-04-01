@@ -133,13 +133,6 @@ Driven Architecture </td>
 </table>
 I am in the process of writing the above apps.
 <h4>
-  Education
-</h4>
-<p>
-  Saigon Institute Of Technology — Computer Science , 2008-2012
-</p>
-
-<h4>
   Strengths and goals
 </h4>
 <p>
